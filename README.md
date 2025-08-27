@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **obaydullah007/obaydullah007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaydullah007&show_icons=true)  
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=obaydullah007&locale=en&hide_title=false&card_width=800&langs_count=10&theme=tokyonight&hide_border=false" height="500" width="800" alt="languages graph"  />
